@@ -58,4 +58,4 @@ class CreateTitle < ActiveRecord::Migration[6.1]
         t.data "false"
       end
     end
-  end
+end
